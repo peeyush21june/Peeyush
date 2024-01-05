@@ -69,12 +69,15 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/peeyush21june/peeyush21june/output/snake.svg" alt="Snake animation" />
-
+<!-- <img src="https://raw.githubusercontent.com/peeyush21june/peeyush21june/output/snake.svg" alt="Snake animation" />
+-->
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/peeyush21june/count.svg?"  />
 </div>
+
+### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
