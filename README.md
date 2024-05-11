@@ -5,7 +5,7 @@
 
 ###
 <br>
-- 👨‍💻 All of my projects are available at [https://whoispeeyush.netlify.app/](https://whoispeeyush.netlify.app/)
+- 👨‍💻 All of my projects are available at [ https://whoispeeyush.netlify.app/ ]
 
 ###
 
